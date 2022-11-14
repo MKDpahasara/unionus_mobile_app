@@ -1,11 +1,14 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+Text based chat application for university students
 
 
-# Flash Chat ⚡️
+# Unionus chat app
 
 ## Our Goal
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+Which its primary goal is to create a university virtual 
+environment that is closer to the university students far removed from the corona epidemic. This 
+chat application is Ideal for a college student over and above the most commonly used chat 
+applications in the world. 
 
 
 ## What you will create
